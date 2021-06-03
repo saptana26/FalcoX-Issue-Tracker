@@ -13,6 +13,6 @@ staleLabel: stale
 markComment: >
   This issue has been automatically marked as stale because it has not had
   recent activity In 30 Days. It will be closed if no further activity occurs In 7 Days. 
-  Please Reset on latest version and if issue still persist comment on This issue
+  Please Retest on latest version and if issue still persist comment on This issue
 # Comment to post when closing a stale issue. Set to `false` to disable
 closeComment: false
